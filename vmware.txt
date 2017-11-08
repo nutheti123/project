@@ -1,0 +1,3 @@
+this is for vmware esxi 5.5 document
+
+what is esxi ?
