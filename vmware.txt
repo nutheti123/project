@@ -1,3 +1,6 @@
 this is for vmware esxi 5.5 document
 
 what is esxi ?
+what is vmotin?
+what is ha?
+
